@@ -7,6 +7,8 @@ This Python script allows you to automatically convert images to another format.
 - Converts images from **JPG, PNG, WEBP,** and **HEIC** formats.
 - Saves images in **JPG, PNG,** and **WEBP** format .
 
+![Image Conversion Example](image.png)
+
 ## ⚙️ Requirements
 Ensure you have Python installed, then install the necessary dependencies:
 
